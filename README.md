@@ -7,3 +7,5 @@ Common data structures in Java
  - **Queue** (Queue, DLQueue, DNode, DoublyLList, DoublyLinkedList)
  - **Binary Search Tree** (Binary Search Tree, BST, TreeNode)
  - **Heap** (Heap, myHeap)
+ - **Hash Table** (HashTable)
+ - **Graph** (Graph, Edge, AdjList)
