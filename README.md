@@ -6,3 +6,4 @@ Common data structures in Java
  - **Stack** (Stack, LStack, SNode, SingleLList, SingleLinkedList)
  - **Queue** (Queue, DLQueue, DNode, DoublyLList, DoublyLinkedList)
  - **Binary Search Tree** (Binary Search Tree, BST, TreeNode)
+ - **Heap** (Heap, myHeap)
